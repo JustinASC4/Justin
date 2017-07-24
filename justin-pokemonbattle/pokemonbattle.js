@@ -7,7 +7,7 @@ function draw(){
     var tab1 = rect(25, 450, 300, 250);
     textSize(32);
     text("Bulbasaur", 97, 590);
-    var tab2 = rect(350, 450, 300, 250);
+    var tab2 = rectcod(350, 450, 300, 250);
     textSize(32);
     text("Squirtle", 440, 590);
     var tab3 = rect(680, 450, 300, 250);

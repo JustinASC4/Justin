@@ -1,11 +1,11 @@
-function stats(Name, Type, HP, Defense, Attack, Legend) {
+function stats(Name, Type, HP, Defense, Attack, Legend x, y, w , h) {
     this.Name = Name,
     this.HP = HP,
     this.Type = Type,
     this.Defense = Defense, 
     this.Attack = Attack,
     this.Legend = Legend 
-
+    rect(x ,y, w, h );
 
 };
 
