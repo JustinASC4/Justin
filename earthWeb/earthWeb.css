@@ -1,0 +1,15 @@
+body {
+    background-image: url("http://images.all-free-download.com/images/graphicthumb/blue_water_background_image_5_169469.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.greenColor {
+    background-color: lightgreen;
+}
+
+.blueColor {
+    background-color: lightblue;
+}
